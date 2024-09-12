@@ -23,3 +23,5 @@ Assets/Plugins/crosstales
 
 .idea
 _builds/
+
+.fake
